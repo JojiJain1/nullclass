@@ -1,0 +1,5 @@
+INTERSHIP PROJECT:
+as a intern i completed all the below tasks.
+1. Build a pie chart that represents the proportion of total clicks (URL clicks, user profile clicks, and hashtag clicks) for tweets with more than 500 impressions. Include a drill-down to view the specific types of clicks for each tweet
+2. Create a clustered bar chart that breaks down the sum of URL clicks, user profile clicks, and hashtag clicks by tweet category (e.g., tweets with media, tweets with links, tweets with hashtags). Only include tweets that have at least one of these interaction types and this graph should work between 3 PM to 6 PM and the tweet date should be even number as well as tweet word count be below 40.
+3. Create a dual-axis chart that shows the number of media views and media engagements by the day of the week for the last quarter. Highlight days with significant spikes in media interactions. this graph should work between 3 PM to 6 PM and the tweet impression should be even number and tweet date should be odd number as well as tweet word count be below 30.
